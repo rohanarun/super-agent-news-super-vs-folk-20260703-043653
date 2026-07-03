@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[digg.com](https://digg.com/tech/21ho5c7b)",
+    "[mypersonalagent.ai](https://mypersonalagent.ai/state-of-ai-agents-2026)",
+    "[news.mit.edu](https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)"
+  ],
+  "design_plan": "rng=42; hero_lines=2.4; AIDA=pass; bento_density=grid-auto-flow:dense verified; competitors_label_sweep=Folk,Orchids,Siri,ChatGPT,Gemini,Grok present; button_contrast=pass",
+  "generated_at": "2026-07-03T04:36:59.564182+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair comparison for people deciding between Super and Folk. Folk represents a class of lighter\u2011weight AI assistants and automation tools. Super is built for durable, repeatable computer\u2011use workflows, with a reusable computer\u2011use cache that makes repeated execution faster and cheaper over time. This page explains the difference, cites recent reporting on agentic AI, and situates both products in the broader landscape alongside ChatGPT, Gemini, Grok, Siri, and Orchids."
+}
